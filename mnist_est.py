@@ -8,7 +8,7 @@ import numpy as np
 import shutil
 
 
-# Silence TensorFLlw messages
+# Silence TensorFlow messages
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '1'
 
 
